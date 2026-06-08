@@ -1,0 +1,201 @@
+id;nazwa;species_name;family;order;ioc_english_name;ioc_latin_binomial;match_mode
+1;001.Black_footed_Albatross;Black footed Albatross;Diomedeidae;PROCELLARIIFORMES;Black-footed Albatross;Phoebastria nigripes;direct
+2;002.Laysan_Albatross;Laysan Albatross;Diomedeidae;PROCELLARIIFORMES;Laysan Albatross;Phoebastria immutabilis;direct
+3;003.Sooty_Albatross;Sooty Albatross;Diomedeidae;PROCELLARIIFORMES;Sooty Albatross;Phoebetria fusca;direct
+4;004.Groove_billed_Ani;Groove billed Ani;Cuculidae;CUCULIFORMES;Groove-billed Ani;Crotophaga sulcirostris;direct
+5;005.Crested_Auklet;Crested Auklet;Alcidae;CHARADRIIFORMES;Crested Auklet;Aethia cristatella;direct
+6;006.Least_Auklet;Least Auklet;Alcidae;CHARADRIIFORMES;Least Auklet;Aethia pusilla;direct
+7;007.Parakeet_Auklet;Parakeet Auklet;Alcidae;CHARADRIIFORMES;Parakeet Auklet;Aethia psittacula;direct
+8;008.Rhinoceros_Auklet;Rhinoceros Auklet;Alcidae;CHARADRIIFORMES;Rhinoceros Auklet;Cerorhinca monocerata;direct
+9;009.Brewer_Blackbird;Brewer Blackbird;Icteridae;PASSERIFORMES;Brewer's Blackbird;Euphagus cyanocephalus;alias
+10;010.Red_winged_Blackbird;Red winged Blackbird;Icteridae;PASSERIFORMES;Red-winged Blackbird;Agelaius phoeniceus;direct
+11;011.Rusty_Blackbird;Rusty Blackbird;Icteridae;PASSERIFORMES;Rusty Blackbird;Euphagus carolinus;direct
+12;012.Yellow_headed_Blackbird;Yellow headed Blackbird;Icteridae;PASSERIFORMES;Yellow-headed Blackbird;Xanthocephalus xanthocephalus;direct
+13;013.Bobolink;Bobolink;Icteridae;PASSERIFORMES;Bobolink;Dolichonyx oryzivorus;direct
+14;014.Indigo_Bunting;Indigo Bunting;Cardinalidae;PASSERIFORMES;Indigo Bunting;Passerina cyanea;direct
+15;015.Lazuli_Bunting;Lazuli Bunting;Cardinalidae;PASSERIFORMES;Lazuli Bunting;Passerina amoena;direct
+16;016.Painted_Bunting;Painted Bunting;Cardinalidae;PASSERIFORMES;Painted Bunting;Passerina ciris;direct
+17;017.Cardinal;Cardinal;Cardinalidae;PASSERIFORMES;Northern Cardinal;Cardinalis cardinalis;alias
+18;018.Spotted_Catbird;Spotted Catbird;Ptilonorhynchidae;PASSERIFORMES;Spotted Catbird;Ailuroedus maculosus;direct
+19;019.Gray_Catbird;Gray Catbird;Mimidae;PASSERIFORMES;Grey Catbird;Dumetella carolinensis;alias
+20;020.Yellow_breasted_Chat;Yellow breasted Chat;Icteriidae;PASSERIFORMES;Yellow-breasted Chat;Icteria virens;direct
+21;021.Eastern_Towhee;Eastern Towhee;Passerellidae;PASSERIFORMES;Eastern Towhee;Pipilo erythrophthalmus;direct
+22;022.Chuck_will_Widow;Chuck will Widow;Caprimulgidae;CAPRIMULGIFORMES;Chuck-will's-widow;Antrostomus carolinensis;alias
+23;023.Brandt_Cormorant;Brandt Cormorant;Phalacrocoracidae;SULIFORMES;Brandt's Cormorant;Urile penicillatus;alias
+24;024.Red_faced_Cormorant;Red faced Cormorant;Phalacrocoracidae;SULIFORMES;Red-faced Cormorant;Urile urile;direct
+25;025.Pelagic_Cormorant;Pelagic Cormorant;Phalacrocoracidae;SULIFORMES;Pelagic Cormorant;Urile pelagicus;direct
+26;026.Bronzed_Cowbird;Bronzed Cowbird;Icteridae;PASSERIFORMES;Bronzed Cowbird;Molothrus aeneus;direct
+27;027.Shiny_Cowbird;Shiny Cowbird;Icteridae;PASSERIFORMES;Shiny Cowbird;Molothrus bonariensis;direct
+28;028.Brown_Creeper;Brown Creeper;Certhiidae;PASSERIFORMES;Brown Creeper;Certhia americana;direct
+29;029.American_Crow;American Crow;Corvidae;PASSERIFORMES;American Crow;Corvus brachyrhynchos;direct
+30;030.Fish_Crow;Fish Crow;Corvidae;PASSERIFORMES;Fish Crow;Corvus ossifragus;direct
+31;031.Black_billed_Cuckoo;Black billed Cuckoo;Cuculidae;CUCULIFORMES;Black-billed Cuckoo;Coccyzus erythropthalmus;direct
+32;032.Mangrove_Cuckoo;Mangrove Cuckoo;Cuculidae;CUCULIFORMES;Mangrove Cuckoo;Coccyzus minor;direct
+33;033.Yellow_billed_Cuckoo;Yellow billed Cuckoo;Cuculidae;CUCULIFORMES;Yellow-billed Cuckoo;Coccyzus americanus;direct
+34;034.Gray_crowned_Rosy_Finch;Gray crowned Rosy Finch;Fringillidae;PASSERIFORMES;Grey-crowned Rosy Finch;Leucosticte tephrocotis;alias
+35;035.Purple_Finch;Purple Finch;Fringillidae;PASSERIFORMES;Purple Finch;Haemorhous purpureus;direct
+36;036.Northern_Flicker;Northern Flicker;Picidae;PICIFORMES;Northern Flicker;Colaptes auratus;direct
+37;037.Acadian_Flycatcher;Acadian Flycatcher;Tyrannidae;PASSERIFORMES;Acadian Flycatcher;Empidonax virescens;direct
+38;038.Great_Crested_Flycatcher;Great Crested Flycatcher;Tyrannidae;PASSERIFORMES;Great Crested Flycatcher;Myiarchus crinitus;direct
+39;039.Least_Flycatcher;Least Flycatcher;Tyrannidae;PASSERIFORMES;Least Flycatcher;Empidonax minimus;direct
+40;040.Olive_sided_Flycatcher;Olive sided Flycatcher;Tyrannidae;PASSERIFORMES;Olive-sided Flycatcher;Contopus cooperi;direct
+41;041.Scissor_tailed_Flycatcher;Scissor tailed Flycatcher;Tyrannidae;PASSERIFORMES;Scissor-tailed Flycatcher;Tyrannus forficatus;direct
+42;042.Vermilion_Flycatcher;Vermilion Flycatcher;Tyrannidae;PASSERIFORMES;Vermilion Flycatcher;Pyrocephalus obscurus;direct
+43;043.Yellow_bellied_Flycatcher;Yellow bellied Flycatcher;Tyrannidae;PASSERIFORMES;Yellow-bellied Flycatcher;Empidonax flaviventris;direct
+44;044.Frigatebird;Frigatebird;Fregatidae;SULIFORMES;Magnificent Frigatebird;Fregata magnificens;alias
+45;045.Northern_Fulmar;Northern Fulmar;Procellariidae;PROCELLARIIFORMES;Northern Fulmar;Fulmarus glacialis;direct
+46;046.Gadwall;Gadwall;Anatidae;ANSERIFORMES;Gadwall;Mareca strepera;direct
+47;047.American_Goldfinch;American Goldfinch;Fringillidae;PASSERIFORMES;American Goldfinch;Spinus tristis;direct
+48;048.European_Goldfinch;European Goldfinch;Fringillidae;PASSERIFORMES;European Goldfinch;Carduelis carduelis;direct
+49;049.Boat_tailed_Grackle;Boat tailed Grackle;Icteridae;PASSERIFORMES;Boat-tailed Grackle;Quiscalus major;direct
+50;050.Eared_Grebe;Eared Grebe;Podicipedidae;PODICIPEDIFORMES;Black-necked Grebe;Podiceps nigricollis;alias
+51;051.Horned_Grebe;Horned Grebe;Podicipedidae;PODICIPEDIFORMES;Horned Grebe;Podiceps auritus;direct
+52;052.Pied_billed_Grebe;Pied billed Grebe;Podicipedidae;PODICIPEDIFORMES;Pied-billed Grebe;Podilymbus podiceps;direct
+53;053.Western_Grebe;Western Grebe;Podicipedidae;PODICIPEDIFORMES;Western Grebe;Aechmophorus occidentalis;direct
+54;054.Blue_Grosbeak;Blue Grosbeak;Cardinalidae;PASSERIFORMES;Blue Grosbeak;Passerina caerulea;direct
+55;055.Evening_Grosbeak;Evening Grosbeak;Fringillidae;PASSERIFORMES;Evening Grosbeak;Hesperiphona vespertina;direct
+56;056.Pine_Grosbeak;Pine Grosbeak;Fringillidae;PASSERIFORMES;Pine Grosbeak;Pinicola enucleator;direct
+57;057.Rose_breasted_Grosbeak;Rose breasted Grosbeak;Cardinalidae;PASSERIFORMES;Rose-breasted Grosbeak;Pheucticus ludovicianus;direct
+58;058.Pigeon_Guillemot;Pigeon Guillemot;Alcidae;CHARADRIIFORMES;Pigeon Guillemot;Cepphus columba;direct
+59;059.California_Gull;California Gull;Laridae;CHARADRIIFORMES;California Gull;Larus californicus;direct
+60;060.Glaucous_winged_Gull;Glaucous winged Gull;Laridae;CHARADRIIFORMES;Glaucous-winged Gull;Larus glaucescens;direct
+61;061.Heermann_Gull;Heermann Gull;Laridae;CHARADRIIFORMES;Heermann's Gull;Larus heermanni;alias
+62;062.Herring_Gull;Herring Gull;Laridae;CHARADRIIFORMES;American Herring Gull;Larus smithsonianus;alias
+63;063.Ivory_Gull;Ivory Gull;Laridae;CHARADRIIFORMES;Ivory Gull;Pagophila eburnea;direct
+64;064.Ring_billed_Gull;Ring billed Gull;Laridae;CHARADRIIFORMES;Ring-billed Gull;Larus delawarensis;direct
+65;065.Slaty_backed_Gull;Slaty backed Gull;Laridae;CHARADRIIFORMES;Slaty-backed Gull;Larus schistisagus;direct
+66;066.Western_Gull;Western Gull;Laridae;CHARADRIIFORMES;Western Gull;Larus occidentalis;direct
+67;067.Anna_Hummingbird;Anna Hummingbird;Trochilidae;APODIFORMES;Anna's Hummingbird;Calypte anna;alias
+68;068.Ruby_throated_Hummingbird;Ruby throated Hummingbird;Trochilidae;APODIFORMES;Ruby-throated Hummingbird;Archilochus colubris;direct
+69;069.Rufous_Hummingbird;Rufous Hummingbird;Trochilidae;APODIFORMES;Rufous Hummingbird;Selasphorus rufus;direct
+70;070.Green_Violetear;Green Violetear;Trochilidae;APODIFORMES;Mexican Violetear;Colibri thalassinus;alias
+71;071.Long_tailed_Jaeger;Long tailed Jaeger;Stercorariidae;CHARADRIIFORMES;Long-tailed Jaeger;Stercorarius longicaudus;direct
+72;072.Pomarine_Jaeger;Pomarine Jaeger;Stercorariidae;CHARADRIIFORMES;Pomarine Jaeger;Stercorarius pomarinus;direct
+73;073.Blue_Jay;Blue Jay;Corvidae;PASSERIFORMES;Blue Jay;Cyanocitta cristata;direct
+74;074.Florida_Jay;Florida Jay;Corvidae;PASSERIFORMES;Florida Scrub Jay;Aphelocoma coerulescens;alias
+75;075.Green_Jay;Green Jay;Corvidae;PASSERIFORMES;Green Jay;Cyanocorax luxuosus;direct
+76;076.Dark_eyed_Junco;Dark eyed Junco;Passerellidae;PASSERIFORMES;Dark-eyed Junco;Junco hyemalis;direct
+77;077.Tropical_Kingbird;Tropical Kingbird;Tyrannidae;PASSERIFORMES;Tropical Kingbird;Tyrannus melancholicus;direct
+78;078.Gray_Kingbird;Gray Kingbird;Tyrannidae;PASSERIFORMES;Grey Kingbird;Tyrannus dominicensis;alias
+79;079.Belted_Kingfisher;Belted Kingfisher;Alcedinidae;CORACIIFORMES;Belted Kingfisher;Megaceryle alcyon;direct
+80;080.Green_Kingfisher;Green Kingfisher;Alcedinidae;CORACIIFORMES;Green Kingfisher;Chloroceryle americana;direct
+81;081.Pied_Kingfisher;Pied Kingfisher;Alcedinidae;CORACIIFORMES;Pied Kingfisher;Ceryle rudis;direct
+82;082.Ringed_Kingfisher;Ringed Kingfisher;Alcedinidae;CORACIIFORMES;Ringed Kingfisher;Megaceryle torquata;direct
+83;083.White_breasted_Kingfisher;White breasted Kingfisher;Alcedinidae;CORACIIFORMES;White-throated Kingfisher;Halcyon smyrnensis;alias
+84;084.Red_legged_Kittiwake;Red legged Kittiwake;Laridae;CHARADRIIFORMES;Red-legged Kittiwake;Rissa brevirostris;direct
+85;085.Horned_Lark;Horned Lark;Alaudidae;PASSERIFORMES;Horned Lark;Eremophila alpestris;direct
+86;086.Pacific_Loon;Pacific Loon;Gaviidae;GAVIIFORMES;Pacific Loon;Gavia pacifica;direct
+87;087.Mallard;Mallard;Anatidae;ANSERIFORMES;Mallard;Anas platyrhynchos;direct
+88;088.Western_Meadowlark;Western Meadowlark;Icteridae;PASSERIFORMES;Western Meadowlark;Sturnella neglecta;direct
+89;089.Hooded_Merganser;Hooded Merganser;Anatidae;ANSERIFORMES;Hooded Merganser;Lophodytes cucullatus;direct
+90;090.Red_breasted_Merganser;Red breasted Merganser;Anatidae;ANSERIFORMES;Red-breasted Merganser;Mergus serrator;direct
+91;091.Mockingbird;Mockingbird;Mimidae;PASSERIFORMES;Northern Mockingbird;Mimus polyglottos;alias
+92;092.Nighthawk;Nighthawk;Caprimulgidae;CAPRIMULGIFORMES;Common Nighthawk;Chordeiles minor;alias
+93;093.Clark_Nutcracker;Clark Nutcracker;Corvidae;PASSERIFORMES;Clark's Nutcracker;Nucifraga columbiana;alias
+94;094.White_breasted_Nuthatch;White breasted Nuthatch;Sittidae;PASSERIFORMES;White-breasted Nuthatch;Sitta carolinensis;direct
+95;095.Baltimore_Oriole;Baltimore Oriole;Icteridae;PASSERIFORMES;Baltimore Oriole;Icterus galbula;direct
+96;096.Hooded_Oriole;Hooded Oriole;Icteridae;PASSERIFORMES;Hooded Oriole;Icterus cucullatus;direct
+97;097.Orchard_Oriole;Orchard Oriole;Icteridae;PASSERIFORMES;Orchard Oriole;Icterus spurius;direct
+98;098.Scott_Oriole;Scott Oriole;Icteridae;PASSERIFORMES;Scott's Oriole;Icterus parisorum;alias
+99;099.Ovenbird;Ovenbird;Parulidae;PASSERIFORMES;Ovenbird;Seiurus aurocapilla;direct
+100;100.Brown_Pelican;Brown Pelican;Pelecanidae;PELECANIFORMES;Brown Pelican;Pelecanus occidentalis;direct
+101;101.White_Pelican;White Pelican;Pelecanidae;PELECANIFORMES;American White Pelican;Pelecanus erythrorhynchos;alias
+102;102.Western_Wood_Pewee;Western Wood Pewee;Tyrannidae;PASSERIFORMES;Western Wood Pewee;Contopus sordidulus;direct
+103;103.Sayornis;Sayornis;Tyrannidae;PASSERIFORMES;Say's Phoebe;Sayornis saya;alias
+104;104.American_Pipit;American Pipit;Motacillidae;PASSERIFORMES;American Pipit;Anthus rubescens;direct
+105;105.Whip_poor_Will;Whip poor Will;Caprimulgidae;CAPRIMULGIFORMES;Eastern Whip-poor-will;Antrostomus vociferus;alias
+106;106.Horned_Puffin;Horned Puffin;Alcidae;CHARADRIIFORMES;Horned Puffin;Fratercula corniculata;direct
+107;107.Common_Raven;Common Raven;Corvidae;PASSERIFORMES;Northern Raven;Corvus corax;alias
+108;108.White_necked_Raven;White necked Raven;Corvidae;PASSERIFORMES;White-necked Raven;Corvus albicollis;direct
+109;109.American_Redstart;American Redstart;Parulidae;PASSERIFORMES;American Redstart;Setophaga ruticilla;direct
+110;110.Geococcyx;Geococcyx;Cuculidae;CUCULIFORMES;Greater Roadrunner;Geococcyx californianus;alias
+111;111.Loggerhead_Shrike;Loggerhead Shrike;Laniidae;PASSERIFORMES;Loggerhead Shrike;Lanius ludovicianus;direct
+112;112.Great_Grey_Shrike;Great Grey Shrike;Laniidae;PASSERIFORMES;Great Grey Shrike;Lanius excubitor;direct
+113;113.Baird_Sparrow;Baird Sparrow;Passerellidae;PASSERIFORMES;Baird's Sparrow;Centronyx bairdii;alias
+114;114.Black_throated_Sparrow;Black throated Sparrow;Passerellidae;PASSERIFORMES;Black-throated Sparrow;Amphispiza bilineata;direct
+115;115.Brewer_Sparrow;Brewer Sparrow;Passerellidae;PASSERIFORMES;Brewer's Sparrow;Spizella breweri;alias
+116;116.Chipping_Sparrow;Chipping Sparrow;Passerellidae;PASSERIFORMES;Chipping Sparrow;Spizella passerina;direct
+117;117.Clay_colored_Sparrow;Clay colored Sparrow;Passerellidae;PASSERIFORMES;Clay-colored Sparrow;Spizella pallida;direct
+118;118.House_Sparrow;House Sparrow;Passeridae;PASSERIFORMES;House Sparrow;Passer domesticus;direct
+119;119.Field_Sparrow;Field Sparrow;Passerellidae;PASSERIFORMES;Field Sparrow;Spizella pusilla;direct
+120;120.Fox_Sparrow;Fox Sparrow;Passerellidae;PASSERIFORMES;Red Fox Sparrow;Passerella iliaca;alias
+121;121.Grasshopper_Sparrow;Grasshopper Sparrow;Passerellidae;PASSERIFORMES;Grasshopper Sparrow;Ammodramus savannarum;direct
+122;122.Harris_Sparrow;Harris Sparrow;Passerellidae;PASSERIFORMES;Harris's Sparrow;Zonotrichia querula;alias
+123;123.Henslow_Sparrow;Henslow Sparrow;Passerellidae;PASSERIFORMES;Henslow's Sparrow;Centronyx henslowii;alias
+124;124.Le_Conte_Sparrow;Le Conte Sparrow;Passerellidae;PASSERIFORMES;LeConte's Sparrow;Ammospiza leconteii;alias
+125;125.Lincoln_Sparrow;Lincoln Sparrow;Passerellidae;PASSERIFORMES;Lincoln's Sparrow;Melospiza lincolnii;alias
+126;126.Nelson_Sharp_tailed_Sparrow;Nelson Sharp tailed Sparrow;Passerellidae;PASSERIFORMES;Nelson's Sparrow;Ammospiza nelsoni;alias
+127;127.Savannah_Sparrow;Savannah Sparrow;Passerellidae;PASSERIFORMES;Savannah Sparrow;Passerculus sandwichensis;direct
+128;128.Seaside_Sparrow;Seaside Sparrow;Passerellidae;PASSERIFORMES;Seaside Sparrow;Ammospiza maritima;direct
+129;129.Song_Sparrow;Song Sparrow;Passerellidae;PASSERIFORMES;Song Sparrow;Melospiza melodia;direct
+130;130.Tree_Sparrow;Tree Sparrow;Passerellidae;PASSERIFORMES;American Tree Sparrow;Spizelloides arborea;alias
+131;131.Vesper_Sparrow;Vesper Sparrow;Passerellidae;PASSERIFORMES;Vesper Sparrow;Pooecetes gramineus;direct
+132;132.White_crowned_Sparrow;White crowned Sparrow;Passerellidae;PASSERIFORMES;White-crowned Sparrow;Zonotrichia leucophrys;direct
+133;133.White_throated_Sparrow;White throated Sparrow;Passerellidae;PASSERIFORMES;White-throated Sparrow;Zonotrichia albicollis;direct
+134;134.Cape_Glossy_Starling;Cape Glossy Starling;Sturnidae;PASSERIFORMES;Cape Starling;Lamprotornis nitens;alias
+135;135.Bank_Swallow;Bank Swallow;Hirundinidae;PASSERIFORMES;Sand Martin;Riparia riparia;alias
+136;136.Barn_Swallow;Barn Swallow;Hirundinidae;PASSERIFORMES;Barn Swallow;Hirundo rustica;direct
+137;137.Cliff_Swallow;Cliff Swallow;Hirundinidae;PASSERIFORMES;American Cliff Swallow;Petrochelidon pyrrhonota;alias
+138;138.Tree_Swallow;Tree Swallow;Hirundinidae;PASSERIFORMES;Tree Swallow;Tachycineta bicolor;direct
+139;139.Scarlet_Tanager;Scarlet Tanager;Cardinalidae;PASSERIFORMES;Scarlet Tanager;Piranga olivacea;direct
+140;140.Summer_Tanager;Summer Tanager;Cardinalidae;PASSERIFORMES;Summer Tanager;Piranga rubra;direct
+141;141.Artic_Tern;Artic Tern;Laridae;CHARADRIIFORMES;Arctic Tern;Sterna paradisaea;alias
+142;142.Black_Tern;Black Tern;Laridae;CHARADRIIFORMES;Black Tern;Chlidonias niger;direct
+143;143.Caspian_Tern;Caspian Tern;Laridae;CHARADRIIFORMES;Caspian Tern;Hydroprogne caspia;direct
+144;144.Common_Tern;Common Tern;Laridae;CHARADRIIFORMES;Common Tern;Sterna hirundo;direct
+145;145.Elegant_Tern;Elegant Tern;Laridae;CHARADRIIFORMES;Elegant Tern;Thalasseus elegans;direct
+146;146.Forsters_Tern;Forsters Tern;Laridae;CHARADRIIFORMES;Forster's Tern;Sterna forsteri;alias
+147;147.Least_Tern;Least Tern;Laridae;CHARADRIIFORMES;Least Tern;Sternula antillarum;direct
+148;148.Green_tailed_Towhee;Green tailed Towhee;Passerellidae;PASSERIFORMES;Green-tailed Towhee;Pipilo chlorurus;direct
+149;149.Brown_Thrasher;Brown Thrasher;Mimidae;PASSERIFORMES;Brown Thrasher;Toxostoma rufum;direct
+150;150.Sage_Thrasher;Sage Thrasher;Mimidae;PASSERIFORMES;Sage Thrasher;Oreoscoptes montanus;direct
+151;151.Black_capped_Vireo;Black capped Vireo;Vireonidae;PASSERIFORMES;Black-capped Vireo;Vireo atricapilla;direct
+152;152.Blue_headed_Vireo;Blue headed Vireo;Vireonidae;PASSERIFORMES;Blue-headed Vireo;Vireo solitarius;direct
+153;153.Philadelphia_Vireo;Philadelphia Vireo;Vireonidae;PASSERIFORMES;Philadelphia Vireo;Vireo philadelphicus;direct
+154;154.Red_eyed_Vireo;Red eyed Vireo;Vireonidae;PASSERIFORMES;Red-eyed Vireo;Vireo olivaceus;direct
+155;155.Warbling_Vireo;Warbling Vireo;Vireonidae;PASSERIFORMES;Warbling Vireo;Vireo gilvus;direct
+156;156.White_eyed_Vireo;White eyed Vireo;Vireonidae;PASSERIFORMES;White-eyed Vireo;Vireo griseus;direct
+157;157.Yellow_throated_Vireo;Yellow throated Vireo;Vireonidae;PASSERIFORMES;Yellow-throated Vireo;Vireo flavifrons;direct
+158;158.Bay_breasted_Warbler;Bay breasted Warbler;Parulidae;PASSERIFORMES;Bay-breasted Warbler;Setophaga castanea;direct
+159;159.Black_and_white_Warbler;Black and white Warbler;Parulidae;PASSERIFORMES;Black-and-white Warbler;Mniotilta varia;direct
+160;160.Black_throated_Blue_Warbler;Black throated Blue Warbler;Parulidae;PASSERIFORMES;Black-throated Blue Warbler;Setophaga caerulescens;direct
+161;161.Blue_winged_Warbler;Blue winged Warbler;Parulidae;PASSERIFORMES;Blue-winged Warbler;Vermivora cyanoptera;direct
+162;162.Canada_Warbler;Canada Warbler;Parulidae;PASSERIFORMES;Canada Warbler;Cardellina canadensis;direct
+163;163.Cape_May_Warbler;Cape May Warbler;Parulidae;PASSERIFORMES;Cape May Warbler;Setophaga tigrina;direct
+164;164.Cerulean_Warbler;Cerulean Warbler;Parulidae;PASSERIFORMES;Cerulean Warbler;Setophaga cerulea;direct
+165;165.Chestnut_sided_Warbler;Chestnut sided Warbler;Parulidae;PASSERIFORMES;Chestnut-sided Warbler;Setophaga pensylvanica;direct
+166;166.Golden_winged_Warbler;Golden winged Warbler;Parulidae;PASSERIFORMES;Golden-winged Warbler;Vermivora chrysoptera;direct
+167;167.Hooded_Warbler;Hooded Warbler;Parulidae;PASSERIFORMES;Hooded Warbler;Setophaga citrina;direct
+168;168.Kentucky_Warbler;Kentucky Warbler;Parulidae;PASSERIFORMES;Kentucky Warbler;Geothlypis formosa;direct
+169;169.Magnolia_Warbler;Magnolia Warbler;Parulidae;PASSERIFORMES;Magnolia Warbler;Setophaga magnolia;direct
+170;170.Mourning_Warbler;Mourning Warbler;Parulidae;PASSERIFORMES;Mourning Warbler;Geothlypis philadelphia;direct
+171;171.Myrtle_Warbler;Myrtle Warbler;Parulidae;PASSERIFORMES;Myrtle Warbler;Setophaga coronata;direct
+172;172.Nashville_Warbler;Nashville Warbler;Parulidae;PASSERIFORMES;Nashville Warbler;Leiothlypis ruficapilla;direct
+173;173.Orange_crowned_Warbler;Orange crowned Warbler;Parulidae;PASSERIFORMES;Orange-crowned Warbler;Leiothlypis celata;direct
+174;174.Palm_Warbler;Palm Warbler;Parulidae;PASSERIFORMES;Palm Warbler;Setophaga palmarum;direct
+175;175.Pine_Warbler;Pine Warbler;Parulidae;PASSERIFORMES;Pine Warbler;Setophaga pinus;direct
+176;176.Prairie_Warbler;Prairie Warbler;Parulidae;PASSERIFORMES;Prairie Warbler;Setophaga discolor;direct
+177;177.Prothonotary_Warbler;Prothonotary Warbler;Parulidae;PASSERIFORMES;Prothonotary Warbler;Protonotaria citrea;direct
+178;178.Swainson_Warbler;Swainson Warbler;Parulidae;PASSERIFORMES;Swainson's Warbler;Limnothlypis swainsonii;alias
+179;179.Tennessee_Warbler;Tennessee Warbler;Parulidae;PASSERIFORMES;Tennessee Warbler;Leiothlypis peregrina;direct
+180;180.Wilson_Warbler;Wilson Warbler;Parulidae;PASSERIFORMES;Wilson's Warbler;Cardellina pusilla;alias
+181;181.Worm_eating_Warbler;Worm eating Warbler;Parulidae;PASSERIFORMES;Worm-eating Warbler;Helmitheros vermivorum;direct
+182;182.Yellow_Warbler;Yellow Warbler;Parulidae;PASSERIFORMES;American Yellow Warbler;Setophaga aestiva;alias
+183;183.Northern_Waterthrush;Northern Waterthrush;Parulidae;PASSERIFORMES;Northern Waterthrush;Parkesia noveboracensis;direct
+184;184.Louisiana_Waterthrush;Louisiana Waterthrush;Parulidae;PASSERIFORMES;Louisiana Waterthrush;Parkesia motacilla;direct
+185;185.Bohemian_Waxwing;Bohemian Waxwing;Bombycillidae;PASSERIFORMES;Bohemian Waxwing;Bombycilla garrulus;direct
+186;186.Cedar_Waxwing;Cedar Waxwing;Bombycillidae;PASSERIFORMES;Cedar Waxwing;Bombycilla cedrorum;direct
+187;187.American_Three_toed_Woodpecker;American Three toed Woodpecker;Picidae;PICIFORMES;American Three-toed Woodpecker;Picoides dorsalis;direct
+188;188.Pileated_Woodpecker;Pileated Woodpecker;Picidae;PICIFORMES;Pileated Woodpecker;Dryocopus pileatus;direct
+189;189.Red_bellied_Woodpecker;Red bellied Woodpecker;Picidae;PICIFORMES;Red-bellied Woodpecker;Melanerpes carolinus;direct
+190;190.Red_cockaded_Woodpecker;Red cockaded Woodpecker;Picidae;PICIFORMES;Red-cockaded Woodpecker;Leuconotopicus borealis;direct
+191;191.Red_headed_Woodpecker;Red headed Woodpecker;Picidae;PICIFORMES;Red-headed Woodpecker;Melanerpes erythrocephalus;direct
+192;192.Downy_Woodpecker;Downy Woodpecker;Picidae;PICIFORMES;Downy Woodpecker;Dryobates pubescens;direct
+193;193.Bewick_Wren;Bewick Wren;Troglodytidae;PASSERIFORMES;Bewick's Wren;Thryomanes bewickii;alias
+194;194.Cactus_Wren;Cactus Wren;Troglodytidae;PASSERIFORMES;Cactus Wren;Campylorhynchus brunneicapillus;direct
+195;195.Carolina_Wren;Carolina Wren;Troglodytidae;PASSERIFORMES;Carolina Wren;Thryothorus ludovicianus;direct
+196;196.House_Wren;House Wren;Troglodytidae;PASSERIFORMES;Northern House Wren;Troglodytes aedon;alias
+197;197.Marsh_Wren;Marsh Wren;Troglodytidae;PASSERIFORMES;Marsh Wren;Cistothorus palustris;direct
+198;198.Rock_Wren;Rock Wren;Troglodytidae;PASSERIFORMES;Rock Wren;Salpinctes obsoletus;direct
+199;199.Winter_Wren;Winter Wren;Troglodytidae;PASSERIFORMES;Winter Wren;Troglodytes hiemalis;direct
+200;200.Common_Yellowthroat;Common Yellowthroat;Parulidae;PASSERIFORMES;Common Yellowthroat;Geothlypis trichas;direct
